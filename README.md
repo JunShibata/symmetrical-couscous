@@ -13,5 +13,5 @@
 数式は
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-リンクは
+リンクは<br>
 [Yahoo](https://www.yahoo.co.jp)
