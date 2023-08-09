@@ -11,7 +11,9 @@
 2. 次にこれ
 
 数式は
+
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-リンクは<br>
+リンクは
+
 [Yahoo](https://www.yahoo.co.jp)
