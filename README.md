@@ -11,4 +11,4 @@
 2. 次にこれ
 
 数式は
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
